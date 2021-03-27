@@ -7,8 +7,8 @@ Sisteminizde kolayca çalışabilir bir Ses Assistanı. Linux üzerinde birçok 
 Sox kurulumu yapmanız gerekir böylece Terminal üstü ses dosyalarını çalıştırmanız mümkün olur. Ek Python kütüphanelerine gerek duymazsınız. Ayrıca [pip](https://pip.pypa.io/en/stable/) ile kurulumlar gerektirir:
 
 ```bash
-pip install gtts
-pip install speechrecognition
+$ pip3 install gtts
+$ pip3 install speechrecognition
 $ sudo apt install sox
 ```
 

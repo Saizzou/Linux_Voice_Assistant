@@ -18,6 +18,7 @@ $ sudo apt install sox
 def fkomut_alma():
 ....
 komut = fkomut_alma() # komutları algılayan kısım
+....
 fkonusma('Bu fonksiyon ile ses çıktıları alırsınız')
 ```
 
